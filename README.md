@@ -1,3 +1,22 @@
+## Checkout my repos
+
+* https://github.com/YRG999/openai-quickstart-python
+* https://github.com/YRG999/Scraper
+* https://github.com/YRG999/babel_lib
+
+
+
+
+
+
+
+
+---
+
+*Archived boilerplate template below*
+
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/YRG999/yrg999.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
