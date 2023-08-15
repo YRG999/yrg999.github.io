@@ -1,8 +1,8 @@
 ## Checkout my repos
 
-* https://github.com/YRG999/openai-quickstart-python
-* https://github.com/YRG999/Scraper
-* https://github.com/YRG999/babel_lib
+* [https://github.com/YRG999/openai-quickstart-python](https://github.com/YRG999/openai-quickstart-python)
+* [https://github.com/YRG999/Scraper](https://github.com/YRG999/Scraper)
+* [https://github.com/YRG999/babel_lib](https://github.com/YRG999/babel_lib)
 
 
 
